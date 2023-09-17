@@ -1,0 +1,13 @@
+description: "Capacitive touch board with I\xB2C interface."
+github_branch: TOUCHBOARD01A
+github_description: "Capacitive touch board with I\xB2C interface."
+github_repo: TOUCHBOARD01
+github_url: https://github.com/mlab-modules/TOUCHBOARD01
+homepage: false
+images:
+- doc/img/TOUCHBOARD01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: TOUCHBOARD01
+updated: '2023-09-17T11:43:35.842522+00:00'
